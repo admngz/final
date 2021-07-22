@@ -223,3 +223,9 @@ img {
 .active {
   background-color: #C0C0C0; 
 }
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
